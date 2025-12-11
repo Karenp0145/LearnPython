@@ -42,4 +42,12 @@ The exercises cover a variety of essential topics such as :
 
 ### Simple CLI Program
 - Adding, searching, listing, and deleting contacts  
-- Basic user-driven menu system  
+- Basic user-driven menu system 
+
+### Anagram Grouping
+- Sorts words by their letters and groups anagrams 
+- Using a clean, modular structure.
+
+### Email Validation
+- Checks that an email has one @ and a valid domain 
+- Using a simple, organized function setup.
