@@ -1,4 +1,4 @@
-# Demande un nombre à l’utilisateur et affiche sa table de multiplication de 1 à 10.
+# Exercice 1 : Demande un nombre à l’utilisateur et affiche sa table de multiplication de 1 à 10.
 
 # number = int(input("Nombre : "))
 
@@ -6,8 +6,10 @@
 #     print(number, "x", i, "=", number * i)56
 
 
+# ///////////////////////////////////////////////////////////////////////////
 
-# Calcule la somme de tous les nombres d’une liste [5, 10, 15, 20, 25].
+
+# Exercice 2 : Calcule la somme de tous les nombres d’une liste [5, 10, 15, 20, 25].
 
 # numbers = [5, 10, 15, 20, 25]
 # total = 0
@@ -17,8 +19,10 @@
 #     print(total)
 
 
+# ///////////////////////////////////////////////////////////////////////////
 
-#Demande un mot à l’utilisateur et affiche-le à l’envers.
+
+#Exercice 3 : Demande un mot à l’utilisateur et affiche-le à l’envers.
 
 # word = input("Ecris un mot : ")
 
@@ -36,7 +40,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 7 : Pair ou impair
+# Exercice 4 : Pair ou impair
 # Demande un nombre à l'utilisateur et indique s'il est pair ou impair.
 
 # number = int(input("Choisis un nombre"))
@@ -50,7 +54,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# # Exercice 8 : Somme des nombres
+# # Exercice 5 : Somme des nombres
 # # Calcule la somme de tous les nombres de 1 à 100.
 
 # somme = 0
@@ -63,7 +67,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 9 : Palindrome
+# Exercice 6 : Palindrome
 # Écris une fonction qui vérifie si un mot ou une phrase est un palindrome (se lit pareil dans les deux sens). Ignore les espaces et la casse.
 # Exemples : "kayak" → True, "Elu par cette crapule" → True 
 
@@ -82,7 +86,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 10
+# Exercice 7
 # Affiche les nombres de 1 à 100, mais :
 
 # Si le nombre est divisible par 3, affiche "Fizz"
@@ -110,7 +114,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 11 : Compteur de mots
+# Exercice 8 : Compteur de mots
 # Crée un programme qui analyse un texte et retourne un dictionnaire avec la fréquence de chaque mot.
 # Exemple : "le chat et le chien" → {"le": 2, "chat": 1, "et": 1, "chien": 1}
 
@@ -137,7 +141,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 12 :  Suite de Fibonacci
+# Exercice 9 :  Suite de Fibonacci
 # Génère les N premiers nombres de la suite de Fibonacci (chaque nombre est la somme des deux précédents : 0, 1, 1, 2, 3, 5, 8...).
 
 # liste = [0,1]
@@ -154,7 +158,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice 13 : Tri personnalisé
+# Exercice 10 : Tri personnalisé
 # Crée une fonction qui trie une liste de tuples par le deuxième élément.
 # Ex : [(1, 5), (3, 2), (2, 8)] → [(3, 2), (1, 5), (2, 8)]
 
@@ -166,7 +170,7 @@
 # ///////////////////////////////////////////////////////////////////////////
 
 
-# Exercice : Gestionnaire de contacts
+# Exercice 11 : Gestionnaire de contacts
 # Crée un mini-programme avec un menu pour :
 
 # Ajouter un contact (nom, téléphone)
