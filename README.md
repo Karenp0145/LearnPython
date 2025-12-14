@@ -1,7 +1,7 @@
 # 🐍 LearnPython
 
-This repository contains a collection of Python scripts created during my first steps in learning Python.  
-The goal is to explore fundamental programming concepts through simple and progressively more complex exercises.
+This repository contains Python scripts from my first steps in learning the language, exploring fundamental programming concepts through simple exercises.
+
 
 ---
 
@@ -51,3 +51,20 @@ The exercises cover a variety of essential topics such as :
 ### Email Validation
 - Checks that an email has one @ and a valid domain 
 - Using a simple, organized function setup.
+
+## Additional Exercises
+
+### Anagram Grouping
+- Groups words that are anagrams by sorting letters.  
+- Uses modular functions and dictionaries.
+
+### Email Validation
+- Checks for a single `@` and a valid domain.  
+- Demonstrates string methods and function composition.
+
+### Run-Length Encoding (RLE)
+- Compresses strings by counting consecutive letters (e.g., `"aaabbcccc"` → `"a3b2c4"`).  
+
+### Advanced Calculator
+- Evaluates expressions with correct operator precedence, including parentheses.  
+- Handles tokenization and step-by-step evaluation using a class.
